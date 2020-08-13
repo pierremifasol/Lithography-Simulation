@@ -1,6 +1,6 @@
 numpy
 matplotlib
-skfmm
+scikit-fmm
 ipywidgets
 scipy
 IPython
